@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://c10.patreonusercontent.com/4/patreon-media/p/campaign/6978773/19bb7e7bd73548cbb67f2c6a2829b57a/eyJ3IjoxNjAwLCJ3ZSI6MX0%3D/3.png?token-time=1743724800&token-hash=R9CgIGJyEtNr8oo66qfGwZoxjuYj2m4lOr5pqj4wcFM%3D"  />
+  <img height="200" src="https://c10.patreonusercontent.com/4/patreon-media/p/campaign/6978773/19bb7e7bd73548cbb67f2c6a2829b57a/eyJ3IjoxNjAwLCJ3ZSI6MX0%3D/3.png?token-time=1743724800&token-hash=R9CgIGJyEtNr8oo66qfGwZoxjuYj2m4lOr5pqj4wcFM%3D"/>
 </div>
 
 ###
